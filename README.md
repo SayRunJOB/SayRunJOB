@@ -20,3 +20,5 @@
 Here is my discord: ``run_say``
 
 </details>
+
+>  See you ❤️
