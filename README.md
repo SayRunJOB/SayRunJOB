@@ -8,8 +8,8 @@
 
 | Project | Description | Status |
 | --- | --- | --- |
-| `PRIME V` | GTA 5 rp project on the alt:V Multiplayer platform | 🟢 |
-| `Vanilla+` | Minecraft project with vanilla survival idea | 🔴 |
+| `PRIME V` | alt:V Server | 🟢 |
+| `Vanilla+` | Minecraft Server | 🔴 |
 
 <details>
 
