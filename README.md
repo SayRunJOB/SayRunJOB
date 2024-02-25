@@ -21,4 +21,4 @@ Here is my discord: ``run_say``
 
 </details>
 
->  ``See you ❤️``
+>  ``See you ❤️`` <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/hour-glass.gif?raw=true" height="32"/>
