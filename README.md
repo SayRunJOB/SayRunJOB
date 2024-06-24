@@ -8,7 +8,7 @@
 
 | Project | Description | Status |
 | --- | --- | --- |
-| `PRIME V` | alt:V Server | 🟢 |
+| `PRIME Five` | alt:V Server | 🟢 |
 | `Vanilla+` | Minecraft Server | 🔴 |
 
 <details>
